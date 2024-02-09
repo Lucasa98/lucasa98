@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello! I'm Lucas Saurin, from Santa Fe, Argentina. Im a Computer Engineerig advance student. I like programing and learning development tools and languages.
+I'd like to develop a high level of expertise on game programming or web development (or both!).
+My favorite language is C++ (for desktop) and JavaScript (for web).
 
 <!--
 **Lucasa98/lucasa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
