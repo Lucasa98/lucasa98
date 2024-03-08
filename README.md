@@ -8,6 +8,7 @@ Projects I'm proud of:
 
 ![C++](https://img.shields.io/badge/-C++-FF9D73?style=flat-square&logo=cplusplus&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-E99480?style=flat-square&logo=javascript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-E99480?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Postgre](https://img.shields.io/badge/-Postgre-D38C8C?style=flat-square&logo=postgresql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-BD8399?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-A77BA6?style=flat-square&logo=html5&logoColor=white)
