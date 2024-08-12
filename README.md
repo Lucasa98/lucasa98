@@ -2,10 +2,6 @@ Hello! I'm **Lucas Saurin** from Santa Fe, Argentina. I'm an **advanced student 
 
 My favorite language is C++ for desktop applications and JavaScript for web development.
 
-Projects I'm proud of:
-- [SSAO implementation with OpenGL](https://github.com/Lucasa98/Computacion-Grafica-SSAO)
-- [Chess Openings Trainer](https://github.com/Lucasa98/Chess-Openings-Trainer)
-
 ![C++](https://img.shields.io/badge/-C++-FF9D73?style=flat-square&logo=cplusplus&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-E99480?style=flat-square&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-E99480?style=flat-square&logo=nodedotjs&logoColor=white)
