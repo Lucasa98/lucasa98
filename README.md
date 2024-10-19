@@ -1,6 +1,4 @@
-Hello! I'm **Lucas Saurin** from Santa Fe, Argentina. I'm an **advanced student of Computer Engineering**. I enjoy programming and learning about development tools and languages. I aspire to attain a **high level of expertise** in game programming or web development, or perhaps both.
-
-My favorite language is C++ for desktop applications and JavaScript for web development.
+Hello! I'm **Lucas Saurin** from Santa Fe, Argentina. I'm an **advanced student of Computer Engineering**. I enjoy programming and learning. I currently work as Full Stack Developer with Symfony.
 
 ![C++](https://img.shields.io/badge/-C++-FF9D73?style=flat-square&logo=cplusplus&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-E99480?style=flat-square&logo=javascript&logoColor=white)
